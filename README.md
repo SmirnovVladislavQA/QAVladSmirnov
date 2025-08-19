@@ -1,52 +1,79 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200"/>
 
-# Привет! 👋 Я Смирнов Владислав
+<h1 align="center">Привет! Я Влад 👋</h1>
+<p align="center">
+  <i>QA Engineer | Web & API Testing | Microservices</i>
+</p>
 
-![QA Engineer](https://img.shields.io/badge/QA-Engineer-blueviolet?style=flat-square)
-![Manual Testing](https://img.shields.io/badge/Manual-Testing-orange?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-Python-green?style=flat-square)
-![API](https://img.shields.io/badge/API-Testing-lightgrey?style=flat-square)
-![Freelance](https://img.shields.io/badge/Available-Freelance-brightgreen?style=flat-square)
-
----
-
-### 🧑‍💻 Обо мне
-- 🔍 QA Engineer с 4+ годами опыта (ручное + автоматизированное тестирование)  
-- 🏥 Сейчас тестирую в **МЕДСИ**: API, микросервисы, интеграции, базы данных  
-- 💼 Опыт работы в **Bell Integrator** — web, mobile, API, документация, Jira  
-- 🛠 Люблю разбираться в логах, искать корни проблем, а не просто “тыкать”  
-- 🚀 Увлекаюсь CI/CD, логированием, тест-дизайном и автоматизацией  
-- 🌍 Английский язык — уровень **B1**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=flatcross&label=Просмотров&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### ⚡️ Мой стек
+## 🧩 Обо мне
 
-#### 🔹 Языки и инструменты
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-#### 🔹 Автотесты и API
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)
-
-#### 🔹 Сервисы и базы
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+- 🧪 Более 4-х лет в QA: ручное тестирование веба, API и микросервисов
+- 🖥️ Тестирую сайты, формы, CRM и интеграции на реальных продуктах
+- ⚙️ Уверенно работаю с DevTools, Postman, Swagger, Kibana и SQL
+- 🚀 Изучаю автоматизацию с Selenium и Python, развиваюсь как QA-инженер
 
 ---
 
-### 🎓 Образование
-📍 Санкт-Петербургский политехнический университет Петра Великого  
-**Робототехника, Автоматизация систем управления**
+## 🧰 Мой стек
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,maven,selenium,idea,postman,git,github,docker,junit,linux,py" />
+</p>
+
+| Категория       | Инструменты                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| 🧪 Тестирование   | Functional, Regression, UAT, Exploratory                    |
+| 🌐 API и Web     | Postman, Swagger, DevTools, Charles Proxy, Fiddler, REST, JSON                      |
+| 🐳 CI/CD и DevOps | Git, GitLab, Jenkins, Docker, Kubernetes                  |
+| 📊 Наблюдаемость | Kibana, Grafana, Metabase, Allure, лог-анализ                              |
+| 🧾 Документация  | Jira, TestRail, Confluence, TestIT                                          |
+| 💬 Коммуникация  | Telegram, Discord, Figma, Miro                                              |
+
+---
+
+## 📈 GitHub Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flatcross&show_icons=true&theme=tokyonight&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=flatcross&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flatcross&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Последние проекты
+
+| 🔍 Название | 💬 Описание | 🚀 Стек |
+|МЕДСИ|Тестирую Api, микросервисы, интеграции, базы данных.|Postman, Swagger, SQL, Kibana, DevTools, Docker|
+|Bell Integrator|Занимался тестированием web, mobile, API, документация, Jira.|Charles Proxy, Fiddler, Postman, Swagger, PostgreSQL|
+|Автотесты (учусь)|Изучаю автоматизацию: создаю UI и API тесты в учебных pet-проектах.|Python, Selenium, Pytest, JSON, Git|
+
+| api-test-framework | Фреймворк на Java для REST API с Allure и CI | Java, RestAssured, JUnit, Allure, GitHub Actions |
+| web-ui-tests | Автотесты интерфейса интернет-магазина | Selenide, PageObject, Allure, Docker |
+| qa-resume-helper | Telegram-бот для генерации резюме QA | Python, Aiogram, OpenAI, Heroku |
+
+---
+
+## ✍️ Как со мной связаться
+
+- 📫 Telegram: [@qavladlen](https://t.me/@qavladlen)
+- 📬 Email: vladikssmirnov00@mail.ru
+- 📄 [Моё резюме (https://hh.ru/resume/eaa5b9e0ff0f3b3c200039ed1f644f6b683377))
+
+---
+
+<p align="center">
+  <i>Спасибо, что заглянул(а) 🙌</i><br/>
+  <i>Если понравилось — ставь ⭐️ в репах и пиши в ТГ</i>
+</p>
 
 ---
 
