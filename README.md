@@ -57,10 +57,6 @@
 |Bell Integrator|Занимался тестированием web, mobile, API, документация, Jira.|Charles Proxy, Fiddler, Postman, Swagger, PostgreSQL|
 |Автотесты (учусь)|Изучаю автоматизацию: создаю UI и API тесты в учебных pet-проектах.|Python, Selenium, Pytest, JSON, Git|
 
-| api-test-framework | Фреймворк на Java для REST API с Allure и CI | Java, RestAssured, JUnit, Allure, GitHub Actions |
-| web-ui-tests | Автотесты интерфейса интернет-магазина | Selenide, PageObject, Allure, Docker |
-| qa-resume-helper | Telegram-бот для генерации резюме QA | Python, Aiogram, OpenAI, Heroku |
-
 ---
 
 ## ✍️ Как со мной связаться
