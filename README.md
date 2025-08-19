@@ -66,7 +66,7 @@
 
 - 📫 Telegram: [@qavladlen](https://t.me/@qavladlen)
 - 📬 Email: vladikssmirnov00@mail.ru
-- 📄 [Моё резюме (https://hh.ru/resume/eaa5b9e0ff0f3b3c200039ed1f644f6b683377))
+- 📄 [Моё резюме (hh.ru)]((https://hh.ru/resume/eaa5b9e0ff0f3b3c200039ed1f644f6b683377))
 
 ---
 
