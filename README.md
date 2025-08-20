@@ -31,7 +31,7 @@
 | 🧪 Тестирование   | Functional, Regression, UAT, Exploratory                    |
 | 🌐 API и Web     | Postman, Swagger, DevTools, Charles Proxy, Fiddler, REST, JSON                      |
 | 🐳 CI/CD и DevOps | Git, GitLab, Jenkins, Docker, Kubernetes                  |
-| 📊 Наблюдаемость | Kibana, Grafana, Metabase, Allure, лог-анализ                              |
+| 📊 Логи | Kibana, Grafana, Metabase, Allure, лог-анализ                              |
 | 🧾 Документация  | Jira, TestRail, Confluence, TestIT                                          |
 | 💬 Коммуникация  | Telegram, Discord, Figma, Miro                                              |
 
