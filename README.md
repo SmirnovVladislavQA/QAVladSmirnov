@@ -35,17 +35,6 @@
 | 🧾 Документация  | Jira, TestRail, Confluence, TestIT                                          |
 | 💬 Коммуникация  | Telegram, Discord, Figma, Miro                                              |
 
----
-
-## 📈 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flatcross&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flatcross&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flatcross&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -74,9 +63,3 @@
 
 ---
 
-### 📫 Контакты
-- Telegram: [@qavladlen](https://t.me/qavladlen)  
-- Email: vladikssmirnov00@mail.ru  
-- 📱 Телефон: +7 (921) 966-03-83  
-
----
